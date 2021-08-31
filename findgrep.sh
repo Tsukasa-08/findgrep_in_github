@@ -9,3 +9,4 @@ fi
 find "$directory" -type f | xargs grep -nH "$pattern"
 
 
+pattern_2=$3
