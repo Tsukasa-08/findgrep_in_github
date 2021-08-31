@@ -10,3 +10,5 @@ find "$directory" -type f | xargs grep -nH "$pattern"
 
 
 pattern_2=$3
+
+pattern_3=$4
